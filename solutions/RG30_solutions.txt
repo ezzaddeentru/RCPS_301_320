@@ -1,0 +1,572 @@
+Instance: Pat301.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 1
+  Activity 3 starts at time 10
+  Activity 4 starts at time 17
+  Activity 5 starts at time 20
+  Activity 6 starts at time 28
+  Activity 7 starts at time 0
+  Activity 8 starts at time 35
+  Activity 9 starts at time 45
+  Activity 10 starts at time 42
+  Activity 11 starts at time 47
+  Activity 12 starts at time 1
+  Activity 13 starts at time 1
+  Activity 14 starts at time 51
+  Activity 15 starts at time 55
+  Activity 16 starts at time 50
+  Activity 17 starts at time 13
+  Activity 18 starts at time 33
+  Activity 19 starts at time 1
+  Activity 20 starts at time 56
+  Activity 21 starts at time 58
+  Activity 22 starts at time 53
+  Activity 23 starts at time 62
+  Activity 24 starts at time 46
+  Activity 25 starts at time 62
+  Activity 26 starts at time 57
+  Activity 27 starts at time 22
+  Activity 28 starts at time 21
+  Activity 29 starts at time 62
+  Activity 30 starts at time 43
+  Activity 31 starts at time 64
+
+Instance: Pat302.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 10
+  Activity 3 starts at time 12
+  Activity 4 starts at time 13
+  Activity 5 starts at time 15
+  Activity 6 starts at time 23
+  Activity 7 starts at time 29
+  Activity 8 starts at time 10
+  Activity 9 starts at time 39
+  Activity 10 starts at time 47
+  Activity 11 starts at time 56
+  Activity 12 starts at time 65
+  Activity 13 starts at time 12
+  Activity 14 starts at time 0
+  Activity 15 starts at time 72
+  Activity 16 starts at time 53
+  Activity 17 starts at time 75
+  Activity 18 starts at time 73
+  Activity 19 starts at time 70
+  Activity 20 starts at time 22
+  Activity 21 starts at time 76
+  Activity 22 starts at time 73
+  Activity 23 starts at time 14
+  Activity 24 starts at time 70
+  Activity 25 starts at time 63
+  Activity 26 starts at time 72
+  Activity 27 starts at time 69
+  Activity 28 starts at time 0
+  Activity 29 starts at time 77
+  Activity 30 starts at time 0
+  Activity 31 starts at time 78
+
+Instance: Pat303.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 7
+  Activity 3 starts at time 16
+  Activity 4 starts at time 24
+  Activity 5 starts at time 0
+  Activity 6 starts at time 27
+  Activity 7 starts at time 28
+  Activity 8 starts at time 16
+  Activity 9 starts at time 24
+  Activity 10 starts at time 35
+  Activity 11 starts at time 44
+  Activity 12 starts at time 43
+  Activity 13 starts at time 50
+  Activity 14 starts at time 0
+  Activity 15 starts at time 48
+  Activity 16 starts at time 57
+  Activity 17 starts at time 64
+  Activity 18 starts at time 0
+  Activity 19 starts at time 65
+  Activity 20 starts at time 57
+  Activity 21 starts at time 60
+  Activity 22 starts at time 58
+  Activity 23 starts at time 44
+  Activity 24 starts at time 65
+  Activity 25 starts at time 59
+  Activity 26 starts at time 58
+  Activity 27 starts at time 60
+  Activity 28 starts at time 63
+  Activity 29 starts at time 60
+  Activity 30 starts at time 0
+  Activity 31 starts at time 66
+
+Instance: Pat304.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 0
+  Activity 3 starts at time 10
+  Activity 4 starts at time 3
+  Activity 5 starts at time 0
+  Activity 6 starts at time 0
+  Activity 7 starts at time 11
+  Activity 8 starts at time 13
+  Activity 9 starts at time 6
+  Activity 10 starts at time 14
+  Activity 11 starts at time 20
+  Activity 12 starts at time 29
+  Activity 13 starts at time 35
+  Activity 14 starts at time 36
+  Activity 15 starts at time 0
+  Activity 16 starts at time 41
+  Activity 17 starts at time 29
+  Activity 18 starts at time 49
+  Activity 19 starts at time 52
+  Activity 20 starts at time 52
+  Activity 21 starts at time 60
+  Activity 22 starts at time 62
+  Activity 23 starts at time 14
+  Activity 24 starts at time 10
+  Activity 25 starts at time 70
+  Activity 26 starts at time 60
+  Activity 27 starts at time 65
+  Activity 28 starts at time 72
+  Activity 29 starts at time 27
+  Activity 30 starts at time 71
+  Activity 31 starts at time 79
+
+Instance: Pat305.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 10
+  Activity 3 starts at time 11
+  Activity 4 starts at time 12
+  Activity 5 starts at time 0
+  Activity 6 starts at time 14
+  Activity 7 starts at time 11
+  Activity 8 starts at time 16
+  Activity 9 starts at time 24
+  Activity 10 starts at time 34
+  Activity 11 starts at time 14
+  Activity 12 starts at time 36
+  Activity 13 starts at time 36
+  Activity 14 starts at time 42
+  Activity 15 starts at time 51
+  Activity 16 starts at time 54
+  Activity 17 starts at time 52
+  Activity 18 starts at time 49
+  Activity 19 starts at time 43
+  Activity 20 starts at time 52
+  Activity 21 starts at time 19
+  Activity 22 starts at time 22
+  Activity 23 starts at time 21
+  Activity 24 starts at time 52
+  Activity 25 starts at time 54
+  Activity 26 starts at time 10
+  Activity 27 starts at time 51
+  Activity 28 starts at time 35
+  Activity 29 starts at time 50
+  Activity 30 starts at time 0
+  Activity 31 starts at time 58
+
+Instance: Pat306.rcp
+Solutions (activity, start time):
+
+Instance: Pat307.rcp
+Solutions (activity, start time):
+
+Instance: Pat308.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 8
+  Activity 3 starts at time 12
+  Activity 4 starts at time 14
+  Activity 5 starts at time 15
+  Activity 6 starts at time 16
+  Activity 7 starts at time 2
+  Activity 8 starts at time 0
+  Activity 9 starts at time 19
+  Activity 10 starts at time 26
+  Activity 11 starts at time 30
+  Activity 12 starts at time 0
+  Activity 13 starts at time 35
+  Activity 14 starts at time 40
+  Activity 15 starts at time 35
+  Activity 16 starts at time 49
+  Activity 17 starts at time 49
+  Activity 18 starts at time 45
+  Activity 19 starts at time 18
+  Activity 20 starts at time 50
+  Activity 21 starts at time 49
+  Activity 22 starts at time 13
+  Activity 23 starts at time 50
+  Activity 24 starts at time 48
+  Activity 25 starts at time 22
+  Activity 26 starts at time 43
+  Activity 27 starts at time 35
+  Activity 28 starts at time 9
+  Activity 29 starts at time 11
+  Activity 30 starts at time 0
+  Activity 31 starts at time 52
+
+Instance: Pat309.rcp
+Solutions (activity, start time):
+
+Instance: Pat310.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 1
+  Activity 3 starts at time 7
+  Activity 4 starts at time 7
+  Activity 5 starts at time 22
+  Activity 6 starts at time 15
+  Activity 7 starts at time 15
+  Activity 8 starts at time 22
+  Activity 9 starts at time 25
+  Activity 10 starts at time 27
+  Activity 11 starts at time 7
+  Activity 12 starts at time 25
+  Activity 13 starts at time 34
+  Activity 14 starts at time 35
+  Activity 15 starts at time 34
+  Activity 16 starts at time 43
+  Activity 17 starts at time 42
+  Activity 18 starts at time 42
+  Activity 19 starts at time 37
+  Activity 20 starts at time 49
+  Activity 21 starts at time 49
+  Activity 22 starts at time 47
+  Activity 23 starts at time 56
+  Activity 24 starts at time 61
+  Activity 25 starts at time 56
+  Activity 26 starts at time 62
+  Activity 27 starts at time 69
+  Activity 28 starts at time 66
+  Activity 29 starts at time 75
+  Activity 30 starts at time 70
+  Activity 31 starts at time 76
+
+Instance: Pat311.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 0
+  Activity 3 starts at time 4
+  Activity 4 starts at time 5
+  Activity 5 starts at time 14
+  Activity 6 starts at time 0
+  Activity 7 starts at time 23
+  Activity 8 starts at time 32
+  Activity 9 starts at time 36
+  Activity 10 starts at time 41
+  Activity 11 starts at time 47
+  Activity 12 starts at time 32
+  Activity 13 starts at time 53
+  Activity 14 starts at time 59
+  Activity 15 starts at time 0
+  Activity 16 starts at time 63
+  Activity 17 starts at time 58
+  Activity 18 starts at time 53
+  Activity 19 starts at time 40
+  Activity 20 starts at time 60
+  Activity 21 starts at time 56
+  Activity 22 starts at time 53
+  Activity 23 starts at time 55
+  Activity 24 starts at time 42
+  Activity 25 starts at time 39
+  Activity 26 starts at time 58
+  Activity 27 starts at time 23
+  Activity 28 starts at time 35
+  Activity 29 starts at time 0
+  Activity 30 starts at time 0
+  Activity 31 starts at time 64
+
+Instance: Pat312.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 8
+  Activity 3 starts at time 15
+  Activity 4 starts at time 16
+  Activity 5 starts at time 0
+  Activity 6 starts at time 26
+  Activity 7 starts at time 4
+  Activity 8 starts at time 35
+  Activity 9 starts at time 22
+  Activity 10 starts at time 29
+  Activity 11 starts at time 43
+  Activity 12 starts at time 0
+  Activity 13 starts at time 45
+  Activity 14 starts at time 0
+  Activity 15 starts at time 55
+  Activity 16 starts at time 62
+  Activity 17 starts at time 40
+  Activity 18 starts at time 64
+  Activity 19 starts at time 35
+  Activity 20 starts at time 72
+  Activity 21 starts at time 70
+  Activity 22 starts at time 42
+  Activity 23 starts at time 58
+  Activity 24 starts at time 75
+  Activity 25 starts at time 65
+  Activity 26 starts at time 71
+  Activity 27 starts at time 42
+  Activity 28 starts at time 33
+  Activity 29 starts at time 8
+  Activity 30 starts at time 0
+  Activity 31 starts at time 79
+
+Instance: Pat313.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 3
+  Activity 3 starts at time 0
+  Activity 4 starts at time 0
+  Activity 5 starts at time 8
+  Activity 6 starts at time 0
+  Activity 7 starts at time 13
+  Activity 8 starts at time 8
+  Activity 9 starts at time 8
+  Activity 10 starts at time 17
+  Activity 11 starts at time 13
+  Activity 12 starts at time 3
+  Activity 13 starts at time 23
+  Activity 14 starts at time 20
+  Activity 15 starts at time 8
+  Activity 16 starts at time 28
+  Activity 17 starts at time 18
+  Activity 18 starts at time 36
+  Activity 19 starts at time 43
+  Activity 20 starts at time 42
+  Activity 21 starts at time 31
+  Activity 22 starts at time 26
+  Activity 23 starts at time 39
+  Activity 24 starts at time 47
+  Activity 25 starts at time 49
+  Activity 26 starts at time 57
+  Activity 27 starts at time 63
+  Activity 28 starts at time 58
+  Activity 29 starts at time 53
+  Activity 30 starts at time 54
+  Activity 31 starts at time 68
+
+Instance: Pat314.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 3
+  Activity 3 starts at time 0
+  Activity 4 starts at time 0
+  Activity 5 starts at time 9
+  Activity 6 starts at time 16
+  Activity 7 starts at time 25
+  Activity 8 starts at time 7
+  Activity 9 starts at time 0
+  Activity 10 starts at time 33
+  Activity 11 starts at time 6
+  Activity 12 starts at time 0
+  Activity 13 starts at time 36
+  Activity 14 starts at time 38
+  Activity 15 starts at time 41
+  Activity 16 starts at time 48
+  Activity 17 starts at time 16
+  Activity 18 starts at time 49
+  Activity 19 starts at time 12
+  Activity 20 starts at time 45
+  Activity 21 starts at time 0
+  Activity 22 starts at time 50
+  Activity 23 starts at time 46
+  Activity 24 starts at time 47
+  Activity 25 starts at time 44
+  Activity 26 starts at time 37
+  Activity 27 starts at time 24
+  Activity 28 starts at time 34
+  Activity 29 starts at time 46
+  Activity 30 starts at time 0
+  Activity 31 starts at time 53
+
+Instance: Pat315.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 9
+  Activity 3 starts at time 19
+  Activity 4 starts at time 21
+  Activity 5 starts at time 0
+  Activity 6 starts at time 0
+  Activity 7 starts at time 1
+  Activity 8 starts at time 15
+  Activity 9 starts at time 30
+  Activity 10 starts at time 26
+  Activity 11 starts at time 31
+  Activity 12 starts at time 9
+  Activity 13 starts at time 40
+  Activity 14 starts at time 50
+  Activity 15 starts at time 30
+  Activity 16 starts at time 56
+  Activity 17 starts at time 52
+  Activity 18 starts at time 51
+  Activity 19 starts at time 43
+  Activity 20 starts at time 60
+  Activity 21 starts at time 56
+  Activity 22 starts at time 61
+  Activity 23 starts at time 61
+  Activity 24 starts at time 43
+  Activity 25 starts at time 36
+  Activity 26 starts at time 63
+  Activity 27 starts at time 66
+  Activity 28 starts at time 66
+  Activity 29 starts at time 60
+  Activity 30 starts at time 71
+  Activity 31 starts at time 72
+
+Instance: Pat316.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 0
+  Activity 3 starts at time 7
+  Activity 4 starts at time 14
+  Activity 5 starts at time 0
+  Activity 6 starts at time 21
+  Activity 7 starts at time 0
+  Activity 8 starts at time 0
+  Activity 9 starts at time 30
+  Activity 10 starts at time 39
+  Activity 11 starts at time 45
+  Activity 12 starts at time 25
+  Activity 13 starts at time 48
+  Activity 14 starts at time 52
+  Activity 15 starts at time 8
+  Activity 16 starts at time 52
+  Activity 17 starts at time 59
+  Activity 18 starts at time 62
+  Activity 19 starts at time 60
+  Activity 20 starts at time 65
+  Activity 21 starts at time 54
+  Activity 22 starts at time 45
+  Activity 23 starts at time 69
+  Activity 24 starts at time 58
+  Activity 25 starts at time 68
+  Activity 26 starts at time 69
+  Activity 27 starts at time 64
+  Activity 28 starts at time 62
+  Activity 29 starts at time 64
+  Activity 30 starts at time 54
+  Activity 31 starts at time 70
+
+Instance: Pat317.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 1
+  Activity 3 starts at time 3
+  Activity 4 starts at time 12
+  Activity 5 starts at time 0
+  Activity 6 starts at time 22
+  Activity 7 starts at time 22
+  Activity 8 starts at time 6
+  Activity 9 starts at time 27
+  Activity 10 starts at time 22
+  Activity 11 starts at time 34
+  Activity 12 starts at time 36
+  Activity 13 starts at time 41
+  Activity 14 starts at time 0
+  Activity 15 starts at time 47
+  Activity 16 starts at time 28
+  Activity 17 starts at time 55
+  Activity 18 starts at time 48
+  Activity 19 starts at time 54
+  Activity 20 starts at time 65
+  Activity 21 starts at time 62
+  Activity 22 starts at time 55
+  Activity 23 starts at time 66
+  Activity 24 starts at time 36
+  Activity 25 starts at time 29
+  Activity 26 starts at time 67
+  Activity 27 starts at time 30
+  Activity 28 starts at time 16
+  Activity 29 starts at time 3
+  Activity 30 starts at time 36
+  Activity 31 starts at time 70
+
+Instance: Pat318.rcp
+Solutions (activity, start time):
+
+Instance: Pat319.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 6
+  Activity 3 starts at time 9
+  Activity 4 starts at time 17
+  Activity 5 starts at time 0
+  Activity 6 starts at time 25
+  Activity 7 starts at time 28
+  Activity 8 starts at time 0
+  Activity 9 starts at time 38
+  Activity 10 starts at time 0
+  Activity 11 starts at time 9
+  Activity 12 starts at time 42
+  Activity 13 starts at time 0
+  Activity 14 starts at time 43
+  Activity 15 starts at time 0
+  Activity 16 starts at time 10
+  Activity 17 starts at time 0
+  Activity 18 starts at time 47
+  Activity 19 starts at time 52
+  Activity 20 starts at time 0
+  Activity 21 starts at time 55
+  Activity 22 starts at time 34
+  Activity 23 starts at time 65
+  Activity 24 starts at time 46
+  Activity 25 starts at time 58
+  Activity 26 starts at time 62
+  Activity 27 starts at time 60
+  Activity 28 starts at time 59
+  Activity 29 starts at time 59
+  Activity 30 starts at time 50
+  Activity 31 starts at time 66
+
+Instance: Pat320.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 6
+  Activity 3 starts at time 8
+  Activity 4 starts at time 10
+  Activity 5 starts at time 12
+  Activity 6 starts at time 15
+  Activity 7 starts at time 12
+  Activity 8 starts at time 22
+  Activity 9 starts at time 29
+  Activity 10 starts at time 12
+  Activity 11 starts at time 33
+  Activity 12 starts at time 32
+  Activity 13 starts at time 37
+  Activity 14 starts at time 0
+  Activity 15 starts at time 38
+  Activity 16 starts at time 22
+  Activity 17 starts at time 43
+  Activity 18 starts at time 46
+  Activity 19 starts at time 0
+  Activity 20 starts at time 51
+  Activity 21 starts at time 49
+  Activity 22 starts at time 40
+  Activity 23 starts at time 36
+  Activity 24 starts at time 55
+  Activity 25 starts at time 49
+  Activity 26 starts at time 51
+  Activity 27 starts at time 22
+  Activity 28 starts at time 15
+  Activity 29 starts at time 51
+  Activity 30 starts at time 25
+  Activity 31 starts at time 59
+

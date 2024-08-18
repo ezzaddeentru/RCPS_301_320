@@ -1,0 +1,35 @@
+Instance: Pat301.rcp
+Solutions (activity, start time):
+  Activity 0 starts at time 0
+  Activity 1 starts at time 0
+  Activity 2 starts at time 1
+  Activity 3 starts at time 10
+  Activity 4 starts at time 17
+  Activity 5 starts at time 20
+  Activity 6 starts at time 28
+  Activity 7 starts at time 0
+  Activity 8 starts at time 35
+  Activity 9 starts at time 45
+  Activity 10 starts at time 42
+  Activity 11 starts at time 47
+  Activity 12 starts at time 1
+  Activity 13 starts at time 1
+  Activity 14 starts at time 51
+  Activity 15 starts at time 55
+  Activity 16 starts at time 50
+  Activity 17 starts at time 13
+  Activity 18 starts at time 33
+  Activity 19 starts at time 1
+  Activity 20 starts at time 56
+  Activity 21 starts at time 58
+  Activity 22 starts at time 53
+  Activity 23 starts at time 62
+  Activity 24 starts at time 46
+  Activity 25 starts at time 62
+  Activity 26 starts at time 57
+  Activity 27 starts at time 22
+  Activity 28 starts at time 21
+  Activity 29 starts at time 62
+  Activity 30 starts at time 43
+  Activity 31 starts at time 64
+
